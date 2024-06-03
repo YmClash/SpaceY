@@ -5,5 +5,5 @@ The purpose of this project is to apply my data science skills by collecting, pr
 
 
 
-708 / 5 000
+
 Le but de ce projet est d'appliquer mes compétences en science des données en collectant, traitant, explorant et analysant des données pour une société privée de lancement spatial. Je développerai des modèles prédictifs, évalués et affinés pour découvrir des informations plus approfondies et créer une présentation basée sur mes découvertes.
